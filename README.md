@@ -12,10 +12,7 @@ Repository: [https://github.com/AhmedDev374/HeartDiseasePredictor](https://githu
 * **Demo Video**  
 [![Video Thumbnail](media/Images/img2.PNG)](https://drive.google.com/file/d/1vzDsx5USeR6WXMIWidd_AaWYdMfCKiuw/view?usp=sharing)
 
-
-> Add screenshots to `/images/` and replace the paths below.
-
-* **App Home / Input Form**  
+* **App Home**  
   ![app_home](media/Images/img1.PNG)
 
 ---
