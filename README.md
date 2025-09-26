@@ -11,11 +11,12 @@ Repository: [https://github.com/AhmedDev374/HeartDiseasePredictor](https://githu
 
 > Add screenshots to `/images/` and replace the paths below.
 
-* **App Home / Input Form**
-  ![app\_home](images/app_home.png)
+* **App Home / Input Form**  
+  ![app_home](media/Images/img1.PNG)
 
-* **Prediction Result**
-  ![prediction\_result](images/prediction_result.png)
+* **Prediction Result**  
+  ![prediction_result](images/prediction_result.png)
+
 
 ---
 
