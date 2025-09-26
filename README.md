@@ -10,7 +10,7 @@ Repository: [https://github.com/AhmedDev374/HeartDiseasePredictor](https://githu
 ## Demo / Quick Gallery
 
 * **Demo Video**  
-  https://github.com/AhmedDev374/HeartDiseasePredictor/blob/main/media/Video/record_2025-09-26_14-04-29.mp4
+[![Video Thumbnail](media/Images/img2.PNG)] https://drive.google.com/file/d/1vzDsx5USeR6WXMIWidd_AaWYdMfCKiuw/view?usp=sharing)
 
 > Add screenshots to `/images/` and replace the paths below.
 
