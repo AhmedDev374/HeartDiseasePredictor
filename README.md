@@ -9,14 +9,13 @@ Repository: [https://github.com/AhmedDev374/HeartDiseasePredictor](https://githu
 
 ## Demo / Quick Gallery
 
+* **Demo Video**  
+  https://github.com/AhmedDev374/HeartDiseasePredictor/blob/main/media/Video/record_2025-09-26_14-04-29.mp4
+
 > Add screenshots to `/images/` and replace the paths below.
 
 * **App Home / Input Form**  
   ![app_home](media/Images/img1.PNG)
-
-* **Prediction Result**  
-  ![prediction_result](images/prediction_result.png)
-
 
 ---
 
