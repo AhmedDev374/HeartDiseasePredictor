@@ -220,8 +220,24 @@ Thumbs.db
 model.joblib
 scaler.joblib
 ```
+---
+
+## 🤖 Generative AI Usage Log
+
+This section documents how generative AI tools supported the development of this project. Each entry includes the task, tool, prompt, response summary, and reflection.
+
+| Task | Tool Used | Prompt | AI Response (summary) | Reflection |
+|------|-----------|--------|------------------------|------------|
+| Generate project boilerplate | ChatGPT-4 | "Give me a basic Flask/Streamlit ML app for predicting heart disease" | Provided a full Streamlit UI structure with sidebar inputs and a form | Saved ~2 hours of manual UI setup |
+| Debug feature mismatch error | ChatGPT-4 | "My model.predict() is throwing a shape mismatch error. Here's the code and error message..." | Identified that input array was not reshaped correctly, suggested `.reshape(1, -1)` fix | Quickly solved a tricky bug |
+| Write README sections | ChatGPT-4 | "Help me write a professional README for a heart disease prediction app using Streamlit and sklearn" | Generated a detailed outline and markdown examples | Improved clarity and saved documentation time |
+| Model serialization with joblib | GitHub Copilot | Auto-suggested `dump(model, "model.joblib")` and `load()` syntax while typing | Correct usage with minimal lookup | Increased coding speed |
+| Naming/labels for form inputs | ChatGPT-4 | "What are good label names for UI fields like cp, fbs, thal, etc.?" | Explained meanings (e.g. chest pain types) and suggested labels | Helped make UI user-friendly |
+
+> **Note:** All code was reviewed and modified by the author. AI assistance was used for productivity and idea generation, not code generation alone.
 
 ---
+
 
 ## Contact
 
